@@ -1,0 +1,28 @@
+body{
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+font-family: "Faculty Glyphic", sans-serif;
+font-size: medium;
+}
+.bundyHalloween {
+    width: 540px;
+    border-radius: 35px;
+    border: double;
+}
+.bundyAcostado {
+    width: 1333px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.Cosas {
+    background-color: aliceblue;
+    color: hsl(250, 80%, 12%);
+}
+.imagen1{
+    text-align: center;
+    
+}
